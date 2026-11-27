@@ -4,6 +4,10 @@
 
 ### รวมแบบฝึกหัดเขียนโปรแกรมภาษา C++
 
+**DGT01 0320 SOFTWARE DEVELOPMENT FUNDAMENTALS**<br>
+พื้นฐานการพัฒนาซอฟต์แวร์ · 1101021 SOFTWARE DEVELOPMENT FOUNDATION I
+
+![Course](https://img.shields.io/badge/DGT01_0320-Software_Development_Fundamentals-1e4a94?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Labs](https://img.shields.io/badge/โปรแกรม-12_ข้อ-2ea44f?style=for-the-badge)
 ![Level](https://img.shields.io/badge/ระดับ-พื้นฐาน-orange?style=for-the-badge)
@@ -14,7 +18,12 @@
 
 ## 📖 Repo นี้คืออะไร?
 
-ที่เก็บโค้ด **C++** จากปฏิบัติการวิชาเขียนโปรแกรม แต่ละไฟล์คือโจทย์ **1 ข้อ**
+ที่เก็บโค้ด **C++** จากปฏิบัติการรายวิชา **DGT01 0320 SOFTWARE DEVELOPMENT FUNDAMENTALS (พื้นฐานการพัฒนาซอฟต์แวร์)** และ **1101021 SOFTWARE DEVELOPMENT FOUNDATION I** แต่ละไฟล์คือโจทย์ **1 ข้อ**
+
+| 📚 รายวิชา | รหัส |
+|---|---|
+| Software Development Fundamentals (พื้นฐานการพัฒนาซอฟต์แวร์) | DGT01 0320 |
+| Software Development Foundation I | 1101021 |
 
 - ✅ ทุกโปรแกรมรับค่าจากคีย์บอร์ด (`cin`) และแสดงผลออกหน้าจอ (`cout`)
 - ✅ ทุกไฟล์มี **คอมเมนต์ภาษาไทยด้านบน** อธิบายโจทย์ วิธีคิด และตัวอย่าง
@@ -213,6 +222,6 @@ g++ "LAB01(โปรแกรมตรวจสอบเลขคู่ หร�
 
 <div align="center">
 
-⭐ ทำขึ้นเพื่อฝึกเขียนโปรแกรม C++ ขั้นพื้นฐาน
+⭐ ทำขึ้นเพื่อฝึกเขียนโปรแกรม C++ ในรายวิชา DGT01 0320 Software Development Fundamentals
 
 </div>
